@@ -1,3 +1,0 @@
-In this file we look at how to connect to a relational data base server in IBM called IBM_Db2.
-We furthur go through python syntax of creating and inserting tables in IBM_Db2 data base. 
-We see how to convert tables from this data base to a data frame using Pandas
